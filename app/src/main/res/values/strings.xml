@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown Timer</string>
+    <string name="About">About</string>
+    <string name="title_activity_main2">About Me</string>
+</resources>
